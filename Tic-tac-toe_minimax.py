@@ -1,5 +1,4 @@
 from tkinter import *
-from turtle import pos
 
 # tic tac toe grid and numeration
 
